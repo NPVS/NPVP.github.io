@@ -123,6 +123,12 @@ left column: ground-truth. Right column: predicted videos.
 
 <h3 align="center"> <img src="./kth_specific_vfp_10to10_1xfps.gif" alt="KTH-VFP"> </h3>
 
+<h3 align="left"> Cityscapes (128x128) </h3>
+
+left column: ground-truth, right column: predicted videos.
+
+<h3 align="center"> <img src="./city_specific_vfp_2to28_1xfps.gif" alt="City-VFP"> </h3>
+
 <h3 align="left"> BAIR (64x64) </h3>
 
 left column: ground-truth, middle column: random prediction 1, right column: random prediction
