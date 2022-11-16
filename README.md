@@ -100,7 +100,7 @@ Some missing frames are predicted with 1X fps, some missing frames are predicted
 
 left column: ground-truth. Right column: predicted videos. 
 
-<h3 align="center"> <img src="./kth_specific_vfi_10to10_1xfps.gif" alt="KTH-VFI"> </h3>
+<h3 align="center"> <img src="./KTH_specific_vfi_55to10.gif" alt="KTH-VFI"> </h3>
 
 <h3 align="center"> <img src="./smmnist_specific_vfi_10to5_1xfps.gif" alt="SMMNIST-VFI"> </h3>
 
