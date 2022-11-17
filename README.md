@@ -131,7 +131,7 @@ left column: ground-truth, right column: predicted videos.
 
 <h3 align="left"> BAIR (64x64) </h3>
 
-left column: ground-truth, middle column: random prediction 1, right column: random prediction
+left column: ground-truth, right column: predicted videos.
 
-<h3 align="center"> <img src="./bair_specific_vfp_rand_2to10_1xfps.gif" alt="BAIR-VFP"> </h3>
+<h3 align="center"> <img src="./bair_specific_vfp_2to10_1xfps.gif" alt="BAIR-VFP"> </h3>
 
